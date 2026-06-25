@@ -1,0 +1,5 @@
+body {font-family: Arial; margin:50px;}
+h2 {color: blue;}
+input, textarea {width:300px; padding:8px; margin:10px;}
+table {border-collapse: collapse;}
+th, td {padding:10px;}
